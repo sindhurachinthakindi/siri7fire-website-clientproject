@@ -8,7 +8,8 @@ This project involved complete end-to-end delivery, including logo design, websi
 
 ## 🌐 Live Website
 
-**Website:** https://sindhurachinthakindi.github.io/siri7fire-website-clientproject/
+**Website:** https://www.siri7fire.com/  
+(Deployed via teammate's repo: https://github.com/manojnimmala/sirisevenfirefighting-website)
 
 ---
 
@@ -20,19 +21,14 @@ The goal of this project was to establish a professional online presence for the
 
 ---
 
-## 🚀 My Responsibilities
+## 🚀 My Contributions
 
-* Logo design and brand identity creation
-* Website UI/UX design and planning
-* Front-end development using HTML5 and CSS3
-* Responsive layout implementation
-* Domain setup and configuration
-* DNS record management
-* Website deployment and hosting
-* Zoho Mail business email setup
-* SEO audit and optimization
-* Performance and usability improvements
-* Client support and maintenance
+- Supported client communication throughout the project
+- Contributed design input and feedback on layout and branding
+- Worked on select HTML/CSS sections of the website
+- Collaborated remotely (India) with teammate Manoj Nimmala (on-site, Dubai), 
+  who led front-end development, deployment, DNS/email configuration, and the 
+  SEO/accessibility audit
 
 ---
 
@@ -59,67 +55,32 @@ The goal of this project was to establish a professional online presence for the
 * CSS3
 * Git & GitHub
 * GitHub Pages
-* Custom Domain Configuration
-* DNS Management
-* Zoho Mail
 
 ---
 
-## 🔍 SEO Improvements Implemented
+## 🏆 Project Highlights
 
-Conducted a website audit and implemented several SEO improvements, including:
-
-* Optimized page titles and metadata
-* Improved heading hierarchy (H1–H3 structure)
-* Added descriptive image alt attributes
-* Enhanced content organization for better search visibility
-* Improved accessibility and crawlability
-* Optimized page structure for search engines
-
----
-
-## 🌍 Deployment & Infrastructure
-
-Successfully managed the complete deployment process:
-
-* Connected custom domain (**[www.siri7fire.com](http://www.siri7fire.com)**)
-* Configured DNS records and domain verification
-* Deployed website to production environment
-* Integrated Zoho Mail business email services
-* Configured business email functionality
-* Managed website hosting and publishing
+* Contributed to a complete, production-ready website for a real client
+* Provided design input on layout and branding
+* Worked on select HTML/CSS sections of the site
+* Supported client communication throughout the project
+* Collaborated remotely with an on-site teammate to deliver the project in 3 months
 
 ---
 
 ## 📂 Project Structure
 
 ```text
-sirisevenfirefighting-website/
+siri7fire-website-clientproject/
 │
 ├── index.html
 ├── style.css
 ├── images/
-├── assets/
 └── README.md
 ```
-
----
-
-## 🏆 Project Highlights
-
-* Delivered a complete production-ready website for a real client
-* Designed the company logo and branding assets
-* Configured custom domain and DNS records
-* Set up Zoho business email services
-* Implemented SEO improvements based on a website audit
-* Successfully deployed and maintained the live website
 
 ---
 
 ## 📄 License
 
 This project was developed for **Siri Seven Fire Fighting Safety Equipment Installation L.L.C.** All company branding, business information, and content belong to their respective owner.
-
----
-
-
