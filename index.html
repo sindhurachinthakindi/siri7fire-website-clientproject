@@ -44,7 +44,7 @@
         </div>
     </div>
 </header>
-
+<main>
 <!-- HERO -->
 <section id="home" class="hero">
 
@@ -156,7 +156,7 @@
 
         <a href="https://aasa.ae/" target="_blank" class="project-link">
             <div class="project-box">
-                <img src="images/company1.png">
+                <img src="images/company1.png" alt="AASA Group - Fire Safety Client Dubai">
                 <h3>AASA Group</h3>
                 <p>Fire Safety Installation and Maintenance</p>
             </div>
@@ -164,7 +164,7 @@
 
         <a href="https://grigulf.com/" target="_blank" class="project-link">
             <div class="project-box">
-                <img src="images/company2.png">
+                <img src="images/company2.png" alt="GRI Industries LLC - Fire Alarm Client UAE">
                 <h3>GRI Industries LLC</h3>
                 <p>Fire Alarm Installation and Maintenance</p>
             </div>
@@ -172,7 +172,7 @@
 
         <a href="https://www.cpcgulf.com/" target="_blank" class="project-link">
             <div class="project-box">
-                <img src="images/company3.jpeg">
+                <img src="images/company3.jpeg" alt="CPC Gulf - Fire Safety Services Dubai">
                 <h3>CPC Gulf</h3>
                 <p>Fire Safety Services</p>
             </div>
@@ -180,7 +180,7 @@
 
         <a href="https://www.indexemirates.com/" target="_blank" class="project-link">
             <div class="project-box">
-                <img src="images/company4.jpeg">
+                <img src="images/company4.jpeg" alt="Index Emirates - Fire Extinguisher Services UAE">
                 <h3>Index Emirates</h3>
                 <p>Extinguisher Refilling Services</p>
             </div>
@@ -250,18 +250,19 @@
     <!-- CONTACT -->
     <section id="contact" class="contact">
         <h2>Contact Us</h2>
-        <h4>Get In Touch</h4>
+        <h3>Get In Touch</h3>
         <p><strong>Phone:</strong><br>
         <a href="tel:+971525274187" class="phn" target="_blank">📞 +971 52 527 4187</a>
         <a href="tel:+971525274187" class="phn" target="_blank">📞 +971 52 523 3011</a>
         <a href="tel:+971525274187" class="phn" target="_blank">📞 +971 52 311 2087</a>
 
         <p><strong>Email:</strong><br>
-        <a href="mailto:siri7firesafety@gmail.com?subject=Enquiry&body=Hello Siri Seven Team,"
-        class="mail">
-            ✉️ siri7firesafety@gmail.com
+        <a href="mailto:info@siri7fire.com?subject=Enquiry&body=Hello Siri Seven Team," class="mail">
+            ✉️ info@siri7fire.com
         </a>
-        <a href="mailto:siriseven2025@gmail.com" class="mail">✉️ siriseven2025@gmail.com</a>
+        <a href="mailto:sales@siri7fire.com?subject=Sales Enquiry&body=Hello Sales Team," class="mail">
+            ✉️ sales@siri7fire.com
+        </a>
         <p>📍 Property Investment Office 4,<br>
             Dubai Investment Park First,<br>
             Dubai, UAE
@@ -278,24 +279,28 @@
         <a href="tel:+971525274187" class="btn">Call Now</a>
 
         <div class="social-links">
-            <a href="https://www.instagram.com/siri7_firefigtingsafety_lpg" target="_blank">
-                <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
+            <a href="https://www.instagram.com/siri7_firefigtingsafety_lpg" target="_blank" aria-label="Follow Siri Seven Fire Safety on Instagram">
+                <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram">
             </a>
 
-            <a href="https://www.linkedin.com/in/siri-7-fire-fighting-safety-equipment-installation-llc-903286384" target="_blank">
-                <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png">
+            <a href="https://www.linkedin.com/in/siri-7-fire-fighting-safety-equipment-installation-llc-903286384" target="_blank" aria-label="Connect with Siri Seven Fire Safety on LinkedIn">
+                <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn">
             </a>
         </div>
     </section>
-
+</main>
 <!-- WhatsApp Floating -->
-<a href="https://wa.me/971525274187" class="whatsapp" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png">
+<a href="https://wa.me/971525274187" class="whatsapp" target="_blank" aria-label="Chat with Siri Seven Fire Safety on WhatsApp">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp">
 </a>
 
 <!-- FOOTER -->
 <footer class="footer">
-    <p>© 2024-2026 Siri Seven Fire Safety. All rights reserved.</p>
+    <p>© 2025–<span id="year"></span> Siri Seven Fire Safety. All rights reserved.</p>
+
+    <script>
+        document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
 </footer>
 <div id="popup" class="popup">
     <p>Need Fire Safety Service? We’re here to help 👋</p>

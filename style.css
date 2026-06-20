@@ -7,7 +7,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    color: #333;
+    color: #222222;
 }
 
 html {
@@ -202,7 +202,7 @@ section {
 }
 
 .service-item p {
-    color: #555;
+    color: #333333;
     line-height: 1.6;
     font-size: 14px;
 }
@@ -270,7 +270,7 @@ section {
 
 .why-box p {
   font-size: 14px;
-  color: #555;
+  color: #333333;
 }
 .about {
   padding: 60px 20px;
@@ -352,7 +352,8 @@ section {
 }
 
 .whatsapp img {
-    width: 30px;
+    width: 36px;
+    height: 36px;
 }
 
 .whatsapp:hover {
@@ -370,10 +371,10 @@ section {
 }
 
 .social-links img {
-    width: 30px;
-    height: 30px;
+    width: 36px;
+    height: 36px;
     background: #f1f1f1;
-    padding: 8px;
+    padding: 10px;
     border-radius: 50%;
     transition: 0.3s;
 }
